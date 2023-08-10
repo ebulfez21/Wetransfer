@@ -1,0 +1,31 @@
+.icon {
+  width: 32px;
+  height: 32px;
+  display: flex;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  background-size: contain;
+  align-items: center;
+  justify-content: center;
+  
+
+}
+.google{
+  background-image: url(../icon/google.png);
+
+}
+.apple{
+  background-image: url(../icon/apple.svg);
+}
+.slack{
+  background-image: url(../icon/Slack_icon_2019.svg.png);
+}
+.envelope{
+  background-image:url(../icon/envelope-solid.svg) ;
+  margin-left: 15px;
+}
+.lock{
+  background-image: url(../icon/lock.svg);
+  margin-left: 15px;
+}
